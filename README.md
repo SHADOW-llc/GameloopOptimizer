@@ -4,7 +4,7 @@
 GL Optimizer is a lightweight Windows Optimizer designed to maximize your PC’s gaming performance especially when using GameLoop emulation. Leveraging intelligent presets and system recommendations, it fine tunes graphics, network, and operating system settings to deliver smoother frame rates and lower latencies.
 
 ---How to Get the Keys?
-Please Visit Our Discord Channel For Requesting Credentials Thank You (https://discord.gg/MBMkDFKmcw)
+Kindly visit our Discord channel to request credentials Thank you. (https://discord.gg/MBMkDFKmcw)
 
 ### Key Features
 
